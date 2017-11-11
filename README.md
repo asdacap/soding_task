@@ -1,7 +1,7 @@
 Soding Test
 ===========
 
-So, apparently as a part of soding.my recruitment process you are given a test. And surprisingly this time,
+So, apparently as a part of soding.com.my recruitment process you are given a test. And surprisingly this time,
 its a competitive programming-like test. Last time, which was one or two years ago, I have to make a full
 web-app. I did not. Because I forgot about it at that time. But here I am. Doing it again....
 
@@ -31,8 +31,8 @@ to do a Dynamic Programming solution... with dimentional reduction. Let see if t
 Running
 -------
 
-Java - `javac Main.java && java Main`
-PHP - `php Php.php`
-Javascript - `node JS.js`
-Ruby - `ruby Ruby.rb`
-Kotlin - `kotlinc Kotlin.kt -include-runtime -d fib.jar && java -jar fib.jar`
+- Java: `javac Main.java && java Main`
+- PHP: `php Php.php`
+- Javascript: `node JS.js`
+- Ruby: `ruby Ruby.rb`
+- Kotlin: `kotlinc Kotlin.kt -include-runtime -d fib.jar && java -jar fib.jar`
